@@ -1,4 +1,4 @@
-# URI Online Judge
-URI Online Judge's Problems Solutions
+# BeeCrowd Online Judge
+BeeCrowd's Problems Solutions
 
- ![Texto alternativo opcional se a imagem não carregar](https://braziliansintech.com/static/img-apoiadores/uri.png)
+ ![Texto alternativo opcional se a imagem não carregar](https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png)
